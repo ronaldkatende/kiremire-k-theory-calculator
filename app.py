@@ -30,7 +30,7 @@ st.markdown("""
 <div class="hero">
 <h1>Kiremire K-Theory Structural Calculator — Version 1</h1>
 <p><b>Theory:</b> Prof. Enos M. R. Kiremire &nbsp; | &nbsp; <b>Computational implementation:</b> Ronald Katende</p>
-<p>Enter a formula. The calculator returns the three outputs requested by Professor Kiremire: <b>valence electrons, skeletal bonds/linkages, and possible structural configurations</b>.</p>
+<p>Enter a formula. The calculator returns three outputs, i.e., <b>valence electrons, skeletal bonds/linkages, and possible structural configurations</b>.</p>
 </div>
 """, unsafe_allow_html=True)
 
