@@ -1,0 +1,19 @@
+KIREMIRE K-THEORY STRUCTURAL CALCULATOR — VERSION 1
+Validation run
+------------------------------------------------------------------------
+Rh6(CO)16                K=11 n=6 q=2 VE=86 closo          PASS
+Os10(CO)26^2-            K=23 n=10 q=-6 VE=134 tetra-capped   PASS
+B6H6^2-                  K=11 n=6 q=2 VE=26 closo          PASS
+B5H9                     K=8 n=5 q=4 VE=24 nido           PASS
+C2B10H12                 K=23 n=12 q=2 VE=50 closo          PASS
+P4                       K=6 n=4 q=4 VE=20 nido           PASS
+Bi5^3+                   K=9 n=5 q=2 VE=22 closo          PASS
+Mn2(CO)10                K=1 n=2 q=6 VE=34 arachno        PASS
+Fe3(CO)12                K=3 n=3 q=6 VE=48 arachno        PASS
+Co4(CO)12                K=6 n=4 q=4 VE=60 nido           PASS
+Os6(CO)18                K=12 n=6 q=0 VE=84 mono-capped    PASS
+Fe2Co2(CO)12             K=7 n=4 q=2 VE=58 closo          PASS
+Pd35(CO)23L15            K=102 n=35 q=-64 VE=426 33-capped      PASS
+------------------------------------------------------------------------
+13/13 regression examples passed.
+118 periodic-table element symbols represented.

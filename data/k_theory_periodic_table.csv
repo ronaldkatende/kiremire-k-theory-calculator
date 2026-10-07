@@ -1,0 +1,119 @@
+Element,Period,Group,Block,Valence e (G),K,Skeletal valence V=2K,Target shell
+H,1,1,s,1,0.5,1.0,2
+He,1,18,p,2,0.0,0.0,2
+Li,2,1,s,1,3.5,7.0,8
+Be,2,2,s,2,3.0,6.0,8
+B,2,13,p,3,2.5,5.0,8
+C,2,14,p,4,2.0,4.0,8
+N,2,15,p,5,1.5,3.0,8
+O,2,16,p,6,1.0,2.0,8
+F,2,17,p,7,0.5,1.0,8
+Ne,2,18,p,8,0.0,0.0,8
+Na,3,1,s,1,3.5,7.0,8
+Mg,3,2,s,2,3.0,6.0,8
+Al,3,13,p,3,2.5,5.0,8
+Si,3,14,p,4,2.0,4.0,8
+P,3,15,p,5,1.5,3.0,8
+S,3,16,p,6,1.0,2.0,8
+Cl,3,17,p,7,0.5,1.0,8
+Ar,3,18,p,8,0.0,0.0,8
+K,4,1,s,1,3.5,7.0,8
+Ca,4,2,s,2,3.0,6.0,8
+Sc,4,3,d,3,7.5,15.0,18
+Ti,4,4,d,4,7.0,14.0,18
+V,4,5,d,5,6.5,13.0,18
+Cr,4,6,d,6,6.0,12.0,18
+Mn,4,7,d,7,5.5,11.0,18
+Fe,4,8,d,8,5.0,10.0,18
+Co,4,9,d,9,4.5,9.0,18
+Ni,4,10,d,10,4.0,8.0,18
+Cu,4,11,d,11,3.5,7.0,18
+Zn,4,12,d,12,3.0,6.0,18
+Ga,4,13,p,3,2.5,5.0,8
+Ge,4,14,p,4,2.0,4.0,8
+As,4,15,p,5,1.5,3.0,8
+Se,4,16,p,6,1.0,2.0,8
+Br,4,17,p,7,0.5,1.0,8
+Kr,4,18,p,8,0.0,0.0,8
+Rb,5,1,s,1,3.5,7.0,8
+Sr,5,2,s,2,3.0,6.0,8
+Y,5,3,d,3,7.5,15.0,18
+Zr,5,4,d,4,7.0,14.0,18
+Nb,5,5,d,5,6.5,13.0,18
+Mo,5,6,d,6,6.0,12.0,18
+Tc,5,7,d,7,5.5,11.0,18
+Ru,5,8,d,8,5.0,10.0,18
+Rh,5,9,d,9,4.5,9.0,18
+Pd,5,10,d,10,4.0,8.0,18
+Ag,5,11,d,11,3.5,7.0,18
+Cd,5,12,d,12,3.0,6.0,18
+In,5,13,p,3,2.5,5.0,8
+Sn,5,14,p,4,2.0,4.0,8
+Sb,5,15,p,5,1.5,3.0,8
+Te,5,16,p,6,1.0,2.0,8
+I,5,17,p,7,0.5,1.0,8
+Xe,5,18,p,8,0.0,0.0,8
+Cs,6,1,s,1,3.5,7.0,8
+Ba,6,2,s,2,3.0,6.0,8
+La,6,3,d,3,7.5,15.0,18
+Ce,6,f-block,f,—,—,—,author rule needed
+Pr,6,f-block,f,—,—,—,author rule needed
+Nd,6,f-block,f,—,—,—,author rule needed
+Pm,6,f-block,f,—,—,—,author rule needed
+Sm,6,f-block,f,—,—,—,author rule needed
+Eu,6,f-block,f,—,—,—,author rule needed
+Gd,6,f-block,f,—,—,—,author rule needed
+Tb,6,f-block,f,—,—,—,author rule needed
+Dy,6,f-block,f,—,—,—,author rule needed
+Ho,6,f-block,f,—,—,—,author rule needed
+Er,6,f-block,f,—,—,—,author rule needed
+Tm,6,f-block,f,—,—,—,author rule needed
+Yb,6,f-block,f,—,—,—,author rule needed
+Lu,6,3,d,3,7.5,15.0,18
+Hf,6,4,d,4,7.0,14.0,18
+Ta,6,5,d,5,6.5,13.0,18
+W,6,6,d,6,6.0,12.0,18
+Re,6,7,d,7,5.5,11.0,18
+Os,6,8,d,8,5.0,10.0,18
+Ir,6,9,d,9,4.5,9.0,18
+Pt,6,10,d,10,4.0,8.0,18
+Au,6,11,d,11,3.5,7.0,18
+Hg,6,12,d,12,3.0,6.0,18
+Tl,6,13,p,3,2.5,5.0,8
+Pb,6,14,p,4,2.0,4.0,8
+Bi,6,15,p,5,1.5,3.0,8
+Po,6,16,p,6,1.0,2.0,8
+At,6,17,p,7,0.5,1.0,8
+Rn,6,18,p,8,0.0,0.0,8
+Fr,7,1,s,1,3.5,7.0,8
+Ra,7,2,s,2,3.0,6.0,8
+Ac,7,3,d,3,7.5,15.0,18
+Th,7,f-block,f,—,—,—,author rule needed
+Pa,7,f-block,f,—,—,—,author rule needed
+U,7,f-block,f,—,—,—,author rule needed
+Np,7,f-block,f,—,—,—,author rule needed
+Pu,7,f-block,f,—,—,—,author rule needed
+Am,7,f-block,f,—,—,—,author rule needed
+Cm,7,f-block,f,—,—,—,author rule needed
+Bk,7,f-block,f,—,—,—,author rule needed
+Cf,7,f-block,f,—,—,—,author rule needed
+Es,7,f-block,f,—,—,—,author rule needed
+Fm,7,f-block,f,—,—,—,author rule needed
+Md,7,f-block,f,—,—,—,author rule needed
+No,7,f-block,f,—,—,—,author rule needed
+Lr,7,f-block,f,—,—,—,author rule needed
+Rf,7,4,d,4,7.0,14.0,18
+Db,7,5,d,5,6.5,13.0,18
+Sg,7,6,d,6,6.0,12.0,18
+Bh,7,7,d,7,5.5,11.0,18
+Hs,7,8,d,8,5.0,10.0,18
+Mt,7,9,d,9,4.5,9.0,18
+Ds,7,10,d,10,4.0,8.0,18
+Rg,7,11,d,11,3.5,7.0,18
+Cn,7,12,d,12,3.0,6.0,18
+Nh,7,13,p,3,2.5,5.0,8
+Fl,7,14,p,4,2.0,4.0,8
+Mc,7,15,p,5,1.5,3.0,8
+Lv,7,16,p,6,1.0,2.0,8
+Ts,7,17,p,7,0.5,1.0,8
+Og,7,18,p,8,0.0,0.0,8
