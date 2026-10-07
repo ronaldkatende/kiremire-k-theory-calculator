@@ -9,7 +9,99 @@ from k_theory_engine import (
     VALIDATION_EXAMPLES, LIGANDS, _fmt
 )
 
-st.set_page_config(page_title="Kiremire K-Theory Structural Calculator", page_icon="⚛", layout="wide")
+st.set_page_config(
+    page_title="Kiremire K-Theory Structural Calculator",
+    page_icon="⚛",
+    layout="wide"
+)
+
+import streamlit as st
+
+st.set_page_config(
+    page_title="Kiremire K-Theory Structural Calculator",
+    page_icon="⚛",
+    layout="wide"
+)
+
+st.markdown("""
+<style>
+
+/* Main body text */
+.stApp {
+    font-size: 21px;
+}
+
+p, li, div {
+    font-size: 21px;
+    line-height: 1.55;
+}
+
+/* Main title */
+h1 {
+    font-size: 46px !important;
+    line-height: 1.15 !important;
+}
+
+/* Section headings */
+h2 {
+    font-size: 36px !important;
+}
+
+h3 {
+    font-size: 29px !important;
+}
+
+/* Input labels */
+label,
+[data-testid="stWidgetLabel"] p {
+    font-size: 22px !important;
+    font-weight: 600 !important;
+}
+
+/* Text input */
+input {
+    font-size: 24px !important;
+    min-height: 52px !important;
+}
+
+/* Buttons */
+.stButton > button {
+    font-size: 23px !important;
+    font-weight: 600 !important;
+    min-height: 54px !important;
+    padding: 0.6rem 1.4rem !important;
+}
+
+/* Result labels */
+[data-testid="stMetricLabel"] p {
+    font-size: 21px !important;
+    font-weight: 600 !important;
+}
+
+/* Result values */
+[data-testid="stMetricValue"] {
+    font-size: 36px !important;
+    font-weight: 700 !important;
+}
+
+/* Tabs */
+button[data-baseweb="tab"] {
+    font-size: 22px !important;
+}
+
+/* Expanders */
+[data-testid="stExpander"] summary {
+    font-size: 21px !important;
+    font-weight: 600 !important;
+}
+
+/* Captions */
+[data-testid="stCaptionContainer"] {
+    font-size: 17px !important;
+}
+
+</style>
+""", unsafe_allow_html=True)
 
 st.markdown("""
 <style>
